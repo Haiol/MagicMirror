@@ -10,12 +10,12 @@
   --font-size: 20px;
   --font-size-small: 0.75rem;
 
-  --gap-body-top: 60px;
-  --gap-body-right: 60px;
-  --gap-body-bottom: 60px;
-  --gap-body-left: 60px;
+  --gap-body-top: 10px;
+  --gap-body-right: 10px;
+  --gap-body-bottom: 10px;
+  --gap-body-left: 10px;
 
-  --gap-modules: 30px;
+  --gap-modules: 5px;
 }
 
 html {
